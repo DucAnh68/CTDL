@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\câu trúc dữ liệu và giải thuật\bt thực hành ngày 1\bài 1\bài 1\source.cpp(64): warning C4101: 'j': unreferenced local variable
+d:\câu trúc dữ liệu và giải thuật\bt thực hành ngày 1\bài 1\bài 1\source.cpp(26): warning C4715: 'CreateNode': not all control paths return a value
+  Bài 1.vcxproj -> D:\Câu trúc dữ liệu và giải thuật\BT thực hành ngày 1\Bài 1\Debug\Bài 1.exe

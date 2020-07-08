@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\câu trúc dữ liệu và giải thuật\bt thực hành  ngày 7\bai 31\bai 31\source.cpp(57): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+d:\câu trúc dữ liệu và giải thuật\bt thực hành  ngày 7\bai 31\bai 31\source.cpp(64): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+  BAI 31.vcxproj -> D:\Câu trúc dữ liệu và giải thuật\BT thực hành  ngày 7\BAI 31\Debug\BAI 31.exe

@@ -1,0 +1,10 @@
+﻿  Bai 34.cpp
+D:\Câu trúc dữ liệu và giải thuật\BT thực hành ngày 8\Bai 34\Bai 34\Bai 34.cpp(12,16): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Câu trúc dữ liệu và giải thuật\BT thực hành ngày 8\Bai 34\Bai 34\Bai 34.cpp(17,13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Câu trúc dữ liệu và giải thuật\BT thực hành ngày 8\Bai 34\Bai 34\Bai 34.cpp(21,12): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Câu trúc dữ liệu và giải thuật\BT thực hành ngày 8\Bai 34\Bai 34\Bai 34.cpp(23,12): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Câu trúc dữ liệu và giải thuật\BT thực hành ngày 8\Bai 34\Bai 34\Bai 34.cpp(35,13): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Câu trúc dữ liệu và giải thuật\BT thực hành ngày 8\Bai 34\Bai 34\Bai 34.cpp(35,22): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Câu trúc dữ liệu và giải thuật\BT thực hành ngày 8\Bai 34\Bai 34\Bai 34.cpp(62,16): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+D:\Câu trúc dữ liệu và giải thuật\BT thực hành ngày 8\Bai 34\Bai 34\Bai 34.cpp(62,36): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  Bai 34.vcxproj -> D:\Câu trúc dữ liệu và giải thuật\BT thực hành ngày 8\Bai 34\Debug\Bai 34.exe

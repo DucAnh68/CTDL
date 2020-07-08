@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\câu trúc dữ liệu và giải thuật\bt thực hành ngày 5\bai 21\bai 21\source.cpp(42): warning C4018: '<': signed/unsigned mismatch
+d:\câu trúc dữ liệu và giải thuật\bt thực hành ngày 5\bai 21\bai 21\source.cpp(124): warning C4553: '==': result of expression not used; did you intend '='?
+d:\câu trúc dữ liệu và giải thuật\bt thực hành ngày 5\bai 21\bai 21\source.cpp(114): warning C4715: 'dequeue': not all control paths return a value
+  bai 21.vcxproj -> D:\Câu trúc dữ liệu và giải thuật\BT thực hành ngày 5\bai 21\Debug\bai 21.exe
